@@ -1,3 +1,4 @@
 baseURL = 'https://nades.r2axz.me/'
 languageCode = 'en-us'
 title = 'CS2 Nades Collection'
+theme = 'hugo-book'
